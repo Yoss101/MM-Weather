@@ -10,6 +10,8 @@ This script is used to pull weather data from api.weather.gov using the requesti
 
 * 0.1
     * Initial release
+* 0.2
+    * Refactor weather data fetching and response handling using AI
 
 ## Acknowledgments
 
